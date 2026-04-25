@@ -1,5 +1,6 @@
 # Make an empty list for storing aliens.
 # Modified by Debdatta Porya
+
 aliens = []
 
 # Make 30 green aliens.
