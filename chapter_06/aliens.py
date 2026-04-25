@@ -1,4 +1,6 @@
 # Make an empty list for storing aliens.
+# Modified by Debdatta Porya
+
 aliens = []
 
 # Make 30 green aliens.
@@ -18,4 +20,6 @@ for alien in aliens[:5]:
 print("...")
 
 # Show how many aliens have been created.
+print(f"Total number of aliens: {len(aliens)}")
+print(aliens)
 print(f"Total number of aliens: {len(aliens)}")

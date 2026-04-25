@@ -13,4 +13,15 @@ while unconfirmed_users:
 # Display all confirmed users.
 print("\nThe following users have been confirmed:")
 for confirmed_user in confirmed_users:
+<<<<<<< HEAD
     print(confirmed_user.title())
+=======
+<<<<<<< HEAD
+    print(confirmed_user.title())
+
+print(unconfirmed_users)
+print(confirmed_users)
+=======
+    print(confirmed_user.title())
+>>>>>>> 3690082cad0aad58cedb4face741aa025d6e8d73
+>>>>>>> b42e693d5ecb8db1b828fe32dca5deeeb98cc4a1
